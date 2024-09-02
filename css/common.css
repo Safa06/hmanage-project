@@ -1,0 +1,22 @@
+ * {
+      font-family: 'Roboto', sans-serif;
+
+}
+
+.h-font {
+      font-family: 'Lobster Two', cursive;
+}
+
+.grad
+{
+      background-image:linear-gradient(blue,white);
+}
+
+
+.custom-alert{
+      position:fixed;
+      top:80px;
+      right:25px;
+      margin-top: 10px; 
+}
+ 
